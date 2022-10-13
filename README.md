@@ -20,3 +20,6 @@ Armadillo library to run the cpp code for MCMC
 
 ![GitHub clstr](/img/Clustering_Result.png)
 
+# Note
+
+The implementation is based on the kasparmartens/mixtureModels repository (https://github.com/kasparmartens/mixtureModels)
