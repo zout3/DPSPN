@@ -10,15 +10,13 @@ Armadillo library to run the cpp code for MCMC
 
 1. Run generateData.py to generate and visualize circular-linear data (dat/data)
 
-![GitHub data](/img/Data scatter.png)
-*Data*
+![GitHub data](/img/Data_scatter.png)
 
 2. Change macro DAT_DIR in src/parameters_config.h to set up the correct directory
 3. Run main.cpp to obtain the log-likelihood (dat/loglik) and posterior clustering (dat/z) of the data
 4. Run visualizeResult.py to visualize the posterior clustering
 
-![GitHub loglik](/img/Log likelihood.png)
-*Log likelihood*
+![GitHub loglik](/img/Log_likelihood.png)
 
-![GitHub clstr](/img/Clustering Result.png)
-*Clustering Result*
+![GitHub clstr](/img/Clustering_Result.png)
+
