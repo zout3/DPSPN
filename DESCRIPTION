@@ -1,0 +1,11 @@
+Package: DPSPN
+Type: Package
+Title: Dirichlet Process Mixture Model of Semi-Projected Normal Distribution
+Version: 1.0
+Date: 2022-12-20
+Author: Tong Zou
+Maintainer: Tong Zou <zout3@uci.edu>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+Imports: Rcpp (>= 1.0.9)
+LinkingTo: Rcpp, RcppArmadillo
