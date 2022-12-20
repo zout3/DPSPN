@@ -8,17 +8,9 @@ Rcpp, RcppArmadillo, mvtnorm, plotly, salso
 
 # Instructions
 
-1. Run generateData.py to generate and visualize circular-linear data (dat/data)
-
-![GitHub data](/img/Data_scatter.png)
-
-2. Change macro DAT_DIR in src/parameters_config.h to set up the correct directory
-3. Run main.cpp to obtain the log-likelihood (dat/loglik) and posterior clustering (dat/z) of the data
-4. Run visualizeResult.py to visualize the posterior clustering
-
-![GitHub loglik](/img/Log_likelihood.png)
-
-![GitHub clstr](/img/Clustering_Result.png)
+1. Install all prerequisite packages
+2. Install DPSPN
+3. Run demo.R
 
 # Note
 
