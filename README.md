@@ -10,7 +10,7 @@ Rcpp, RcppArmadillo, mvtnorm, plotly, salso
 
 1. Install all prerequisite packages
 2. Install DPSPN
-3. Run demo.R
+3. Run test/demo.R
 
 # Note
 
